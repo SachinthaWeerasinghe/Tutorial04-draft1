@@ -1,0 +1,17 @@
+.backgroudHeader{
+    background-color: black;
+    color : white;
+    height : 50px;
+    justify-content: space-between;
+    font-weight : bold;
+
+}
+
+
+.backgroudHeaderButtons{
+    color : white;
+    font-size: smaller;
+    text-align: right;
+}
+
+
